@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[onk:home|Door43 (onk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-onk|d43-onk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-onk/archive/master.zip|d43-onk.zip]]
+
+**Recent Changes**
+{{changes>ns = onk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/onk|Ethnologue data]]
+
